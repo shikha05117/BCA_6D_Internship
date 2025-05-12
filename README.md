@@ -15,5 +15,5 @@ BCA internship for 6 Days.
 <h3>Day 2 - Creating Products page using HTML, CSS, and JS</h3>
 <h3>Day 3 - Creating Product Details page using HTML, CSS, and JS & Connecting both the pages.</h3>
 <h3>Day 4 - Creating the react application and adding the template of product & product page.</h3>
-<h3>Day 5 - Creating product details page</h3>
+<h3>Day 5 - Creating checkout page</h3>
 <h3>Day 6 - Creating Checkout page and doing online payment with Razorpay</h3>

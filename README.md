@@ -6,7 +6,6 @@ BCA internship for 6 Days.
 <h3><a href = "https://drive.google.com/file/d/19aQBntcdGSgIhXtt7hC6HTYMDzo40CZt/view?usp=sharing">Day 2</a></h3>
 <h3><a href = "https://drive.google.com/file/d/1LBnijH_q-kfX-pYzTAi5JA62shFsMocO/view?usp=sharing">Day 3</a></h3>
 <h3><a href = "https://drive.google.com/file/d/1si_MWsnNEmgO-6Nu06e_Fau7pcl9yXTc/view?usp=sharing">Day 4</a></h3>
-<h3><a href = "https://drive.google.com/file/d/1si_MWsnNEmgO-6Nu06e_Fau7pcl9yXTc/view?usp=sharing">Day 4</a></h3>
 <h3><a href = "https://drive.google.com/file/d/1lA6bZgnWLZu5A2fCL7Sjw2EcURmm-2Cj/view?usp=sharing">Day 5</a></h3>
 <h3><a href = "https://drive.google.com/file/d/1wicKfkeD7oDtdTrT1LKOPhU9Sv1XEa1n/view?usp=sharing">Day 6</a></h3>
 
